@@ -3,6 +3,7 @@ Active Directory=C:\Dev\GitHub\MIDI-Merge\MIDI2SPI\
 Target=PIC12F1822
 Active Compiler=BoostC
 Active Config=Debug
+Config=1
 [Files]
 Count=1
 File0=MIDI2SPI.c
