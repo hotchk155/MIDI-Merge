@@ -1,0 +1,11 @@
+[Settings]
+Active Directory=C:\Dev\GitHub\MIDI-Merge\MIDI2SPI\
+Target=PIC12F1822
+Active Compiler=BoostC
+Active Config=Debug
+[Files]
+Count=1
+File0=MIDI2SPI.c
+[Browser]
+UseSysHeaders=1
+UseNovoHeaders=1
